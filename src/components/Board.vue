@@ -1,5 +1,10 @@
 <template>
-  <div>Board</div>
+  <div>
+    <header>my Trello</header>
+    <main>
+      <p class="info-line">All: 0 tasks</p>
+    </main>
+  </div>
 </template>
 
 <script>
@@ -9,5 +14,4 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped="scoped"></style>
